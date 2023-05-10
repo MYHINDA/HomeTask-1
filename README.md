@@ -10,9 +10,13 @@ some examples:
 ![image](https://github.com/MYHINDA/HomeTask-1/assets/40015918/2c56b2d4-c166-4274-91c3-5bd106bf9842)
 ![image](https://github.com/MYHINDA/HomeTask-1/assets/40015918/c5cd5f11-0e2b-4cc6-aead-5b83fd563341)
 ![image](https://github.com/MYHINDA/HomeTask-1/assets/40015918/b767cd65-513f-4d17-b7e4-5574c387362b)
+
 All actions will be performed according to the user's choice at any given stage.
 
 OS: windows 10
+
 env: vscode
+
 lang: python 3.10.7
+
 modules: math

@@ -6,7 +6,7 @@ After we have received the data which is necessarily correct,
 we will perform basic calculation operations according to the user's choice such as extent, area or printing.
 some examples:
 
-[image](https://github.com/MYHINDA/HomeTask-1/assets/40015918/ead54879-b1e1-4285-8dea-6a7ff2f7224e)
+![image](https://github.com/MYHINDA/HomeTask-1/assets/40015918/d0c9b05d-c716-4a7c-85bb-c07688d2e515)
 ![image](https://github.com/MYHINDA/HomeTask-1/assets/40015918/2c56b2d4-c166-4274-91c3-5bd106bf9842)
 ![image](https://github.com/MYHINDA/HomeTask-1/assets/40015918/c5cd5f11-0e2b-4cc6-aead-5b83fd563341)
 ![image](https://github.com/MYHINDA/HomeTask-1/assets/40015918/b767cd65-513f-4d17-b7e4-5574c387362b)
